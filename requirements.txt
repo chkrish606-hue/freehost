@@ -1,4 +1,4 @@
-exTeLegramBOtAPI
+aiogram
 psutil
 requests
 flask
