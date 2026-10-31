@@ -47,8 +47,7 @@ MAX_DEPOSIT = 50000.0
 
 # --- GALUMODZ RESELLER API (automatic key supplier) ---
 GALU_API_URL = "https://api.kppanel.shop/api/v1"
-GALU_API_KEY = "b001dd498026228fd3b4885c483517739d1a2fec8202736e
-"  # Better: admin can override via settings key 'galu_api_key'
+GALU_API_KEY = "b001dd498026228fd3b4885c483517739d1a2fec8202736e"  # Better: admin can override via settings key 'galu_api_key'
 
 USDT_TO_INR = 90.0
 VIP_DISCOUNT_PERCENTAGE = 10.0
