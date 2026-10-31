@@ -1,0 +1,4 @@
+exTeLegramBOtAPI
+psutil
+requests
+flask
