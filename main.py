@@ -32,8 +32,8 @@ from aiogram.types import (
 # ==============================================================================
 # 1. BOT CONFIGURATION & CONSTANTS
 # ==============================================================================
-BOT_TOKEN = "9237421069:AAHMbwlQDqlGbAVOSlusQWKQqZvbnhUS8No"
-BOT_USERNAME = "@krishbhai78_bot"
+BOT_TOKEN = "9219289207:AAFgJtTcn0obKL2mmjq85RT1xmXh5ybZ56M"
+BOT_USERNAME = "@KP_PANELFF_SHOP_bot"
 ADMIN_ID = 8187648516
 ADMIN_CONTACT = "@Krishcheat001"
 
